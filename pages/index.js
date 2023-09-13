@@ -1,9 +1,11 @@
-function HomePage() {
-  return (
+function LandingPage() {
+    return (
     <div>
-      <h1> Hilton Hotels Clone Website </h1>
+        <h1>
+            Our Home Page
+        </h1>
     </div>
-  );
+    );
 }
 
-export default HomePage;
+export default LandingPage;
